@@ -1,0 +1,5 @@
+ntfy_topic.txt
+state.json
+logs/
+__pycache__/
+com.owen.seatwatch.plist
